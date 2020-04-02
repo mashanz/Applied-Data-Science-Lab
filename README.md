@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/mashanz/Applied-Data-Science-Lab) 
+
 # Applied-Data-Science-Lab
 Applied Project For Data Science in R
 
